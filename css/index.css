@@ -2377,6 +2377,7 @@ blockquote footer cite:before {
   background: var(--card-bg);
   -webkit-box-shadow: var(--card-box-shadow);
   box-shadow: var(--card-box-shadow);
+  margin-top: 1em;
   -webkit-transition: all 0.3s;
   -moz-transition: all 0.3s;
   -o-transition: all 0.3s;
@@ -2441,7 +2442,7 @@ blockquote footer cite:before {
 #recent-posts > .recent-post-item >.recent-post-info {
   display: inline-block;
   overflow: hidden;
-  padding: 0 40px;
+  padding: 0 50px;
   width: 55%;
 }
 #recent-posts > .recent-post-item >.recent-post-info.no-cover {
