@@ -2758,6 +2758,11 @@ blockquote footer cite:before {
   -webkit-box-shadow: var(--card-hover-box-shadow);
   box-shadow: var(--card-hover-box-shadow);
 }
+@media screen and (max-width: 768px) {
+  #aside-content .card-widget:not(#card-toc) {
+    display: none;
+  }
+}
 #aside-content .card-info img {
   width: 110px;
   height: 110px;
@@ -9945,6 +9950,10 @@ blockquote.pullquote.right {
     max-height: 75vh !important;
   }
 }
+#article-container p {
+  margin: 0;
+}
+/* bb样式 */
 div.timenode {
   position: relative;
 }

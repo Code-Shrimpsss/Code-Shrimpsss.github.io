@@ -562,7 +562,7 @@
 
   <url>
     <loc>https://github.io/</loc>
-    <lastmod>2022-05-02</lastmod>
+    <lastmod>2022-05-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -570,84 +570,84 @@
   
   <url>
     <loc>https://github.io/tags/JS-ES6/</loc>
-    <lastmod>2022-05-02</lastmod>
+    <lastmod>2022-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://github.io/tags/Django/</loc>
-    <lastmod>2022-05-02</lastmod>
+    <lastmod>2022-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://github.io/tags/Docker/</loc>
-    <lastmod>2022-05-02</lastmod>
+    <lastmod>2022-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://github.io/tags/JavaScript/</loc>
-    <lastmod>2022-05-02</lastmod>
+    <lastmod>2022-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://github.io/tags/Linux/</loc>
-    <lastmod>2022-05-02</lastmod>
+    <lastmod>2022-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://github.io/tags/Mysql/</loc>
-    <lastmod>2022-05-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.io/tags/Python/</loc>
-    <lastmod>2022-05-02</lastmod>
+    <lastmod>2022-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://github.io/tags/%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2022-05-02</lastmod>
+    <lastmod>2022-05-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.io/tags/Python/</loc>
+    <lastmod>2022-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://github.io/tags/Redis/</loc>
-    <lastmod>2022-05-02</lastmod>
+    <lastmod>2022-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://github.io/tags/Vue/</loc>
-    <lastmod>2022-05-02</lastmod>
+    <lastmod>2022-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://github.io/tags/VUE/</loc>
-    <lastmod>2022-05-02</lastmod>
+    <lastmod>2022-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://github.io/tags/%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/</loc>
-    <lastmod>2022-05-02</lastmod>
+    <lastmod>2022-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
