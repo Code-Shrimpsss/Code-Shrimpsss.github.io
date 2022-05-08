@@ -68,8 +68,8 @@ https://github.io/tags/JavaScript/
 https://github.io/tags/Linux/
 https://github.io/tags/Mysql/
 https://github.io/tags/%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF/
-https://github.io/tags/Redis/
 https://github.io/tags/Python/
+https://github.io/tags/Redis/
 https://github.io/tags/Vue/
 https://github.io/tags/VUE/
 https://github.io/tags/%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/

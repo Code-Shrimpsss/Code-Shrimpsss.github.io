@@ -101,7 +101,7 @@ h1::before, h2::before, h3::before, h4::before, h5::before, h6::before {
 
 /* 页脚footer */
 /* 渐变色滚动动画 */
-@-webkit-keyframes Gradient {
+/* @-webkit-keyframes Gradient {
     0% {
         background-position: 0 50%;
     }
@@ -219,4 +219,4 @@ h1::before, h2::before, h3::before, h4::before, h5::before, h6::before {
       rgba(7, 179, 155, 0.1) 86%,
       rgba(109, 186, 130, 0.1) 100%
     );
-  }
+  } */
