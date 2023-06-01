@@ -49,8 +49,8 @@ copy:
 
 # social settings (社交圖標設置)
 social:
-    fab fa-github-alt: https://github.com/Code-shrimpsss || github
-    fas fa-balance-scale: https://shrimps.top/ || Search
+    # fab fa-github-alt: https://github.com/Code-shrimpsss || github
+    fas fa-balance-scale: https://shrimps.top/ || Main
     # fas fa-balance-scale: http://look.jiaoyanxia.top/ || Search
     # fas fa-eercast: https://juejin.cn/user/783303009380040 || JueJin
 
@@ -684,7 +684,7 @@ aside:
             link: https://github.com/Code-shrimpsss
     card_announcement:
         enable: true
-        content: '本站主要为 2022末-2022初 本人的学习记录站点，已不再更新。点击上方👆前往最新站点。'
+        content: '本站主要为 2022末-2022初 本人的学习记录站点，已不再更新。👆点击上方天秤图标前往最新站点。'
     # card_announcement:
     #     enable: false
     #     content: Keep forever
